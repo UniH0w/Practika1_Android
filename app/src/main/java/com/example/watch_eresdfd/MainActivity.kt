@@ -25,8 +25,5 @@ lateinit var  binding: ActivityMainBinding
             val intent = Intent(this, StopWatchActivity::class.java)
             startActivity(intent)
         }
-
-
-
     }
 }

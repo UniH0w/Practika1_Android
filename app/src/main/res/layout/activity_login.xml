@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".LoginActivity"
-    android:background="@drawable/ic_background_third_fragment">
+    android:background="@drawable/ic_background_first_fragment">
 
     <com.google.android.material.button.MaterialButton
         android:id="@+id/MainSign_button"
@@ -124,7 +124,7 @@
         android:id="@+id/imageView5"
         android:layout_width="192dp"
         android:layout_height="195dp"
-        android:layout_marginTop="148dp"
+        android:layout_marginTop="128dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
